@@ -26,3 +26,4 @@ Docker 로 Jenkins 컨테이너 설치, 8085번 포트 허용
 ***
 ### Jenkins 사용
 ![image](https://user-images.githubusercontent.com/77655831/137059282-57bf0969-7216-4c39-b40f-b75b4c10e19c.png)
+![image](https://user-images.githubusercontent.com/77655831/137073519-d4f8d001-dcbd-4685-97e3-d16d0e4f5513.png)
