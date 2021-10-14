@@ -8,7 +8,7 @@
 - systemctl enable docker
 #### https://hub.docker.com/r/jenkins/jenkins
 - docker pull jenkins/jenkins:lts-jdk11
-- docker run -itd --name jenkins -p 8085:8080 docker.io/jenkins/jenkins
+- docker run -itd --name jenkins -p 8085:8080 docker.io/jenkins/jenkins:lts-jdk11 \
 Docker 로 Jenkins 컨테이너 설치, 8085번 포트 허용
 ![image](https://user-images.githubusercontent.com/77655831/137058507-ec7f10fe-4d39-411b-9ced-6bf74c540ddd.png)
 ***
